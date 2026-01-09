@@ -1,0 +1,20 @@
+# Backend
+backend/venv/
+backend/__pycache__/
+backend/*.db
+backend/*.xlsx
+backend/.pytest_cache/
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/.DS_Store
+frontend/*.log
+
+# Global
+.DS_Store
+.env
+.idea/
+.vscode/
